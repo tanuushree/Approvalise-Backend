@@ -1,0 +1,5 @@
+username,email,password,department,role,hierarchyValue
+user1,user1@example.com,password1,Computer Science,student,0
+user2,user2@example.com,password2,Computer Science,approver,2
+user3,user3@example.com,password3,Mathematics,approver,3
+user4,user4@example.com,password4,Physics,approver,3
